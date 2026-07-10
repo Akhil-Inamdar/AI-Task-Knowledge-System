@@ -1,0 +1,11 @@
+Python is an interpreted programming language.
+
+FastAPI is used to build REST APIs.
+
+JWT is used for user authentication.
+
+FAISS is used for semantic search.
+
+Sentence Transformers generate text embeddings.
+
+Machine Learning is a subset of Artificial Intelligence.
